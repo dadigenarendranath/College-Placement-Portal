@@ -1,0 +1,51 @@
+company_id,company_name,role,package,eligibility_cgpa,location,openings
+COM001,codegnan,Cloud Engineer,5.0,7.7,hyd,22
+COM002,abc,Business Analyst,3.5,7.7,hyd,5
+COM003,TCS,Frontend Developer,4.0,8.2,Pan,2
+COM004,HCL,Machine Learning Engineer,5.0,7.0,Vijayawada,25
+COM005,Amazon,SQL Developer,2.4,6.9,Hyderabad,10
+COM006,Amercian Express,Machine Learning Engineer,1.2,7.1,Bengaluru,9
+COM007,Accenture,Software Engineer,6.0,7.0,Hyderabad,9
+COM008,Infosys,Data Scientist,3.0,7.7,Hyderabad,6
+COM009,Tata Consultancy Services,Python Developer,5.0,6.0,Bengaluru,25
+COM010,Infosys,DevOps Engineer,6.0,7.2,Pune,5
+COM011,Wipro,SQL Developer,7.0,7.3,Chennai,23
+COM012,HCLTech,Frontend Developer,8.0,6.9,Mumbai,25
+COM013,Tech Mahindra,Cloud Engineer,9.0,6.1,Noida,19
+COM014,Accenture,Frontend Developer,10.0,7.8,Gurugram,4
+COM015,Cognizant,Machine Learning Engineer,11.0,6.0,Hyderabad,20
+COM016,Capgemini,Backend Developer,12.0,7.4,Bengaluru,15
+COM017,IBM,Data Scientist,4.0,6.4,Pune,3
+COM018,Deloitte,QA Engineer,5.0,6.1,Chennai,2
+COM019,Oracle,Automation Tester,6.0,6.5,Mumbai,4
+COM020,Microsoft,Frontend Developer,7.0,6.2,Noida,8
+COM021,Amazon,Software Engineer,8.0,6.4,Gurugram,9
+COM022,Google,Data Scientist,9.0,7.7,Hyderabad,18
+COM023,Zoho,Java Developer,10.0,7.8,Bengaluru,21
+COM024,Freshworks,Backend Developer,11.0,6.9,Pune,2
+COM025,Salesforce,Frontend Developer,12.0,7.6,Chennai,19
+COM026,SAP,Full Stack Developer,4.0,7.2,Mumbai,8
+COM027,Coforge,Java Developer,5.0,7.2,Noida,24
+COM028,Persistent Systems,Data Scientist,6.0,8.2,Gurugram,22
+COM029,Mphasis,Automation Tester,7.0,6.8,Hyderabad,24
+COM030,L&T Technology Services,SQL Developer,8.0,8.2,Bengaluru,19
+COM031,Hexaware Technologies,Software Engineer,9.0,7.7,Pune,15
+COM032,Birlasoft,Frontend Developer,10.0,7.7,Chennai,9
+COM033,Mindtree,Data Scientist,11.0,6.0,Mumbai,16
+COM034,Virtusa,Automation Tester,12.0,6.2,Noida,20
+COM035,Nagarro,Software Engineer,4.0,6.1,Gurugram,10
+COM036,EPAM Systems,Frontend Developer,5.0,6.9,Hyderabad,2
+COM037,UST,DevOps Engineer,6.0,8.4,Bengaluru,7
+COM038,Genpact,Automation Tester,7.0,8.2,Pune,24
+COM039,DXC Technology,Data Analyst,8.0,8.1,Chennai,15
+COM040,Nucleus Software,Data Analyst,9.0,6.3,Mumbai,12
+COM041,Cyient,Frontend Developer,10.0,7.8,Noida,10
+COM042,Zensar Technologies,Java Developer,11.0,7.9,Gurugram,6
+COM043,Motherson Technology Services,Data Analyst,12.0,8.0,Hyderabad,8
+COM044,ValueLabs,Data Scientist,4.0,8.0,Bengaluru,12
+COM045,Darwinbox,Backend Developer,5.0,6.4,Pune,5
+COM046,HighRadius,Frontend Developer,6.0,6.4,Chennai,4
+COM047,Incedo,Java Developer,7.0,8.0,Mumbai,14
+COM048,Sutherland,DevOps Engineer,8.0,7.8,Noida,5
+COM049,KPIT Technologies,Business Analyst,9.0,8.2,Gurugram,13
+COM050,Sonata Software,Cloud Engineer,10.0,7.1,Hyderabad,13

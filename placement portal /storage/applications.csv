@@ -1,0 +1,51 @@
+application_id,student_id,student_name,company_id,company_name,status,result
+APP001,STU118,Bhavani Rao,COM008,Infosys,Shortlisted,Pending
+APP002,STU103,Pranitha Sharma,COM040,Nucleus Software,Applied,Pending
+APP003,STU008,Deepak Yadav,COM037,UST,Shortlisted,Pending
+APP004,STU001,Aarav Sharma,COM004,HCL,Applied,Pending
+APP005,STU004,Ananya Verma,COM007,Accenture,Applied,Pending
+APP006,STU093,Bhanu Prakash,COM014,Accenture,Applied,Pending
+APP007,STU100,Niharika Rao,COM011,Wipro,Selected,Pass
+APP008,STU070,Priya Sharma,COM012,HCLTech,Shortlisted,Pending
+APP009,STU015,Jahnavi Reddy,COM012,HCLTech,Applied,Pending
+APP010,STU071,Raghu Teja,COM025,Salesforce,Applied,Pending
+APP011,STU079,Shiva Kumar,COM003,TCS,Rejected,Fail
+APP012,STU032,Ramya Rao,COM037,UST,Selected,Pass
+APP013,STU056,Charan Reddy,COM040,Nucleus Software,Applied,Pending
+APP014,STU008,Deepak Yadav,COM023,Zoho,Selected,Pass
+APP015,STU040,Shreya Singh,COM034,Virtusa,Rejected,Fail
+APP016,STU018,Keerthi Rao,COM019,Oracle,Applied,Pending
+APP017,STU058,Divya Rao,COM013,Tech Mahindra,Applied,Pending
+APP018,STU042,Sneha Reddy,COM040,Nucleus Software,Applied,Pending
+APP019,STU011,Gautham Reddy,COM001,codegnan,Rejected,Fail
+APP020,STU103,Pranitha Sharma,COM004,HCL,Shortlisted,Pending
+APP021,STU078,Shalini Rao,COM019,Oracle,Applied,Pending
+APP022,STU030,Rajesh Reddy,COM037,UST,Selected,Pass
+APP023,STU058,Divya Rao,COM011,Wipro,Rejected,Fail
+APP024,STU033,Ravi Teja,COM020,Microsoft,Applied,Pending
+APP025,STU044,Swathi Rao,COM007,Accenture,Selected,Pass
+APP026,STU042,Sneha Reddy,COM027,Coforge,Rejected,Fail
+APP027,STU093,Bhanu Prakash,COM016,Capgemini,Applied,Pending
+APP028,STU079,Shiva Kumar,COM011,Wipro,Applied,Pending
+APP029,STU001,Aarav Sharma,COM032,Birlasoft,Applied,Pending
+APP030,STU047,Varun Kumar,COM006,Amercian Express,Rejected,Fail
+APP031,STU041,Siddharth Rao,COM013,Tech Mahindra,Applied,Pending
+APP032,STU004,Ananya Verma,COM004,HCL,Rejected,Fail
+APP033,STU017,Kavya Sharma,COM002,abc,Shortlisted,Pending
+APP034,STU108,Shashank Kumar,COM001,codegnan,Shortlisted,Pending
+APP035,STU100,Niharika Rao,COM034,Virtusa,Rejected,Fail
+APP036,STU058,Divya Rao,COM001,codegnan,Selected,Pass
+APP037,STU033,Ravi Teja,COM041,Cyient,Shortlisted,Pending
+APP038,STU026,Nikhil Reddy,COM025,Salesforce,Shortlisted,Pending
+APP039,STU099,Mahesh Kumar,COM019,Oracle,Applied,Pending
+APP040,STU029,Rahul Sharma,COM001,codegnan,Applied,Pending
+APP041,STU033,Ravi Teja,COM007,Accenture,Applied,Pending
+APP042,STU039,Sanjay Kumar,COM018,Deloitte,Selected,Pass
+APP043,STU058,Divya Rao,COM005,Amazon,Shortlisted,Pending
+APP044,STU114,Vivek Kumar,COM016,Capgemini,Applied,Pending
+APP045,STU052,Amulya Reddy,COM007,Accenture,Shortlisted,Pending
+APP046,STU040,Shreya Singh,COM023,Zoho,Rejected,Fail
+APP047,STU073,Rashmi Rao,COM001,codegnan,Applied,Pending
+APP048,STU068,Pavan Kumar,COM037,UST,Selected,Pass
+APP049,STU003,Akash Reddy,COM013,Tech Mahindra,Applied,Pending
+APP050,STU073,Rashmi Rao,COM034,Virtusa,Rejected,Fail

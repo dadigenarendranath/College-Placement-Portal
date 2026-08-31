@@ -1,0 +1,121 @@
+student_id,name,email,phone,branch,cgpa,skills,password,status
+STU001,Aarav Sharma,student001@example.com,9000010001,EEE,7.98,"Python, MATLAB, PLC",Demo@001,Placed
+STU002,Aditya Rao,student002@example.com,9000010002,CSE,9.21,"Java, SQL, Spring",Demo@002,Not Placed
+STU003,Akash Reddy,student003@example.com,9000010003,EEE,8.97,"MATLAB, Embedded C, PLC",Demo@003,Not Placed
+STU004,Ananya Verma,student004@example.com,9000010004,ECE,7.55,"C++, Microcontrollers, IoT",Demo@004,Not Placed
+STU005,Arjun Kumar,student005@example.com,9000010005,CIVIL,9.6,"AutoCAD, STAAD.Pro",Demo@005,Not Placed
+STU006,Bhavya Singh,student006@example.com,9000010006,ECE,8.59,"Python, MATLAB, IoT",Demo@006,Placed
+STU007,Chaitanya Reddy,student007@example.com,9000010007,IT,6.59,"JavaScript, React, SQL",Demo@007,Not Placed
+STU008,Deepak Yadav,student008@example.com,9000010008,EEE,7.79,"Python, IoT, Arduino",Demo@008,Not Placed
+STU009,Diya Patel,student009@example.com,9000010009,EEE,7.98,"Python, MATLAB, PLC",Demo@009,Not Placed
+STU010,Esha Gupta,student010@example.com,9000010010,CIVIL,9.15,"Revit, AutoCAD, ETABS",Demo@010,Not Placed
+STU011,Gautham Reddy,student011@example.com,9000010011,EEE,7.51,"C, Electrical Design, MATLAB",Demo@011,Placed
+STU012,Harini Rao,student012@example.com,9000010012,CSE,8.3,"C++, SQL, DSA",Demo@012,Not Placed
+STU013,Harsha Vardhan,student013@example.com,9000010013,CSE,6.59,"Python, HTML, CSS, JavaScript",Demo@013,Not Placed
+STU014,Ishaan Mehta,student014@example.com,9000010014,CIVIL,7.04,"Revit, AutoCAD, ETABS",Demo@014,Placed
+STU015,Jahnavi Reddy,student015@example.com,9000010015,ECE,6.5,"C++, Microcontrollers, IoT",Demo@015,Placed
+STU016,Karthik Kumar,student016@example.com,9000010016,ECE,9.62,"C, Embedded Systems, Arduino",Demo@016,Not Placed
+STU017,Kavya Sharma,student017@example.com,9000010017,EEE,8.51,"C, Electrical Design, MATLAB",Demo@017,Not Placed
+STU018,Keerthi Rao,student018@example.com,9000010018,CIVIL,8.05,"Revit, SketchUp, AutoCAD",Demo@018,Not Placed
+STU019,Lakshmi Priya,student019@example.com,9000010019,MECH,9.45,"SolidWorks, AutoCAD, CNC",Demo@019,Not Placed
+STU020,Manoj Kumar,student020@example.com,9000010020,CIVIL,7.6,"AutoCAD, Civil 3D, STAAD.Pro",Demo@020,Not Placed
+STU021,Meghana Reddy,student021@example.com,9000010021,DS,9.35,"Python, Pandas, Machine Learning",Demo@021,Placed
+STU022,Mohit Sharma,student022@example.com,9000010022,ECE,7.07,"Python, Embedded C, IoT",Demo@022,Not Placed
+STU023,Nandini Rao,student023@example.com,9000010023,IT,6.27,"C++, DSA, SQL",Demo@023,Not Placed
+STU024,Naveen Kumar,student024@example.com,9000010024,MECH,8.26,"AutoCAD, SolidWorks, Python",Demo@024,Not Placed
+STU025,Neha Singh,student025@example.com,9000010025,ECE,8.68,"Python, Embedded C, IoT",Demo@025,Placed
+STU026,Nikhil Reddy,student026@example.com,9000010026,MECH,6.44,"AutoCAD, SolidWorks, Python",Demo@026,Placed
+STU027,Pooja Patel,student027@example.com,9000010027,IT,6.45,"Java, SQL, Git",Demo@027,Not Placed
+STU028,Pranav Kumar,student028@example.com,9000010028,CIVIL,8.54,"Revit, AutoCAD, ETABS",Demo@028,Not Placed
+STU029,Rahul Sharma,student029@example.com,9000010029,EEE,8.73,"MATLAB, Embedded C, PLC",Demo@029,Placed
+STU030,Rajesh Reddy,student030@example.com,9000010030,MECH,8.95,"CATIA, AutoCAD, GD&T",Demo@030,Not Placed
+STU031,Rakesh Kumar,student031@example.com,9000010031,MECH,6.53,"CATIA, AutoCAD, GD&T",Demo@031,Placed
+STU032,Ramya Rao,student032@example.com,9000010032,IT,7.68,"JavaScript, React, SQL",Demo@032,Not Placed
+STU033,Ravi Teja,student033@example.com,9000010033,CSE,8.56,"Python, Flask, MySQL",Demo@033,Placed
+STU034,Riya Gupta,student034@example.com,9000010034,ECE,6.41,"Python, MATLAB, IoT",Demo@034,Not Placed
+STU035,Rohit Sharma,student035@example.com,9000010035,ECE,7.07,"C, Embedded Systems, Arduino",Demo@035,Not Placed
+STU036,Sahithi Reddy,student036@example.com,9000010036,DS,6.69,"Python, Statistics, Power BI",Demo@036,Placed
+STU037,Sai Kiran,student037@example.com,9000010037,CIVIL,7.82,"AutoCAD, STAAD.Pro",Demo@037,Not Placed
+STU038,Sanjana Rao,student038@example.com,9000010038,DS,9.03,"Python, SQL, Pandas",Demo@038,Placed
+STU039,Sanjay Kumar,student039@example.com,9000010039,CSE,8.48,"JavaScript, React, Node.js",Demo@039,Not Placed
+STU040,Shreya Singh,student040@example.com,9000010040,CSE,9.59,"Java, SQL, Spring",Demo@040,Placed
+STU041,Siddharth Rao,student041@example.com,9000010041,EEE,7.62,"MATLAB, Embedded C, PLC",Demo@041,Not Placed
+STU042,Sneha Reddy,student042@example.com,9000010042,MECH,9.23,"AutoCAD, SolidWorks, Python",Demo@042,Not Placed
+STU043,Srikanth Kumar,student043@example.com,9000010043,EEE,7.53,"MATLAB, Embedded C, PLC",Demo@043,Not Placed
+STU044,Swathi Rao,student044@example.com,9000010044,CIVIL,9.44,"Revit, SketchUp, AutoCAD",Demo@044,Placed
+STU045,Tarun Sharma,student045@example.com,9000010045,CIVIL,7.68,"Revit, SketchUp, AutoCAD",Demo@045,Not Placed
+STU046,Tejaswini Reddy,student046@example.com,9000010046,EEE,6.86,"C, Electrical Design, MATLAB",Demo@046,Not Placed
+STU047,Varun Kumar,student047@example.com,9000010047,CSE,8.23,"JavaScript, React, Node.js",Demo@047,Placed
+STU048,Vamsi Krishna,student048@example.com,9000010048,CSE,8.82,"Python, SQL, Django",Demo@048,Placed
+STU049,Vishal Reddy,student049@example.com,9000010049,CSE,8.24,"JavaScript, React, Node.js",Demo@049,Not Placed
+STU050,Yashwanth Rao,student050@example.com,9000010050,EEE,6.4,"Python, MATLAB, PLC",Demo@050,Not Placed
+STU051,Aditi Sharma,student051@example.com,9000010051,EEE,6.44,"Python, MATLAB, PLC",Demo@051,Placed
+STU052,Amulya Reddy,student052@example.com,9000010052,MECH,7.61,"SolidWorks, AutoCAD, CNC",Demo@052,Placed
+STU053,Anjali Gupta,student053@example.com,9000010053,CSE,8.37,"C++, SQL, DSA",Demo@053,Not Placed
+STU054,Anusha Rao,student054@example.com,9000010054,IT,9.47,"Java, SQL, Git",Demo@054,Not Placed
+STU055,Bhargav Kumar,student055@example.com,9000010055,IT,7.04,"JavaScript, React, SQL",Demo@055,Placed
+STU056,Charan Reddy,student056@example.com,9000010056,EEE,8.55,"Python, IoT, Arduino",Demo@056,Not Placed
+STU057,Dhanush Sharma,student057@example.com,9000010057,DS,7.31,"Python, SQL, Pandas",Demo@057,Not Placed
+STU058,Divya Rao,student058@example.com,9000010058,CSE,7.8,"JavaScript, React, Node.js",Demo@058,Placed
+STU059,Ganesh Kumar,student059@example.com,9000010059,ECE,6.46,"C, Embedded Systems, Arduino",Demo@059,Placed
+STU060,Hemanth Reddy,student060@example.com,9000010060,CIVIL,6.66,"AutoCAD, Civil 3D, STAAD.Pro",Demo@060,Not Placed
+STU061,Keerthana Sharma,student061@example.com,9000010061,ECE,9.28,"Python, MATLAB, IoT",Demo@061,Not Placed
+STU062,Krishna Teja,student062@example.com,9000010062,CIVIL,6.75,"AutoCAD, Civil 3D, STAAD.Pro",Demo@062,Not Placed
+STU063,Likhitha Rao,student063@example.com,9000010063,CSE,8.54,"JavaScript, React, Node.js",Demo@063,Placed
+STU064,Madhav Kumar,student064@example.com,9000010064,CIVIL,9.46,"AutoCAD, STAAD.Pro",Demo@064,Placed
+STU065,Manasa Reddy,student065@example.com,9000010065,EEE,7.13,"Python, MATLAB, PLC",Demo@065,Placed
+STU066,Monika Sharma,student066@example.com,9000010066,EEE,7.15,"C, Electrical Design, MATLAB",Demo@066,Placed
+STU067,Nikhitha Rao,student067@example.com,9000010067,IT,6.91,"Python, Django, JavaScript",Demo@067,Not Placed
+STU068,Pavan Kumar,student068@example.com,9000010068,DS,7.08,"Python, SQL, Pandas",Demo@068,Placed
+STU069,Pradeep Reddy,student069@example.com,9000010069,ECE,8.42,"Python, MATLAB, IoT",Demo@069,Not Placed
+STU070,Priya Sharma,student070@example.com,9000010070,CSE,6.21,"Java, SQL, Spring",Demo@070,Placed
+STU071,Raghu Teja,student071@example.com,9000010071,CIVIL,6.77,"Revit, SketchUp, AutoCAD",Demo@071,Placed
+STU072,Ranjith Kumar,student072@example.com,9000010072,AIML,8.16,"Python, Machine Learning, SQL",Demo@072,Placed
+STU073,Rashmi Rao,student073@example.com,9000010073,ECE,9.51,"C, Embedded Systems, Arduino",Demo@073,Placed
+STU074,Rithvik Reddy,student074@example.com,9000010074,CSE,9.12,"JavaScript, React, Node.js",Demo@074,Placed
+STU075,Saketh Kumar,student075@example.com,9000010075,EEE,7.7,"Python, MATLAB, PLC",Demo@075,Not Placed
+STU076,Sandeep Sharma,student076@example.com,9000010076,CIVIL,7.48,"AutoCAD, STAAD.Pro",Demo@076,Not Placed
+STU077,Sanjay Reddy,student077@example.com,9000010077,IT,6.94,"Java, SQL, Git",Demo@077,Not Placed
+STU078,Shalini Rao,student078@example.com,9000010078,ECE,7.44,"C++, Microcontrollers, IoT",Demo@078,Not Placed
+STU079,Shiva Kumar,student079@example.com,9000010079,EEE,9.44,"C, Electrical Design, MATLAB",Demo@079,Not Placed
+STU080,Shivani Reddy,student080@example.com,9000010080,EEE,9.62,"C, Electrical Design, MATLAB",Demo@080,Placed
+STU081,Sowmya Sharma,student081@example.com,9000010081,AIML,6.29,"Python, Deep Learning, SQL",Demo@081,Not Placed
+STU082,Srinivas Rao,student082@example.com,9000010082,AIML,9.01,"Python, Pandas, Scikit-learn",Demo@082,Placed
+STU083,Sushmitha Reddy,student083@example.com,9000010083,CIVIL,6.76,"AutoCAD, STAAD.Pro",Demo@083,Not Placed
+STU084,Teja Kumar,student084@example.com,9000010084,AIML,9.25,"Python, TensorFlow, NLP",Demo@084,Placed
+STU085,Uday Sharma,student085@example.com,9000010085,MECH,6.9,"CATIA, AutoCAD, GD&T",Demo@085,Placed
+STU086,Vaishnavi Rao,student086@example.com,9000010086,IT,7.27,"Java, SQL, Git",Demo@086,Not Placed
+STU087,Vijay Reddy,student087@example.com,9000010087,MECH,6.28,"SolidWorks, AutoCAD, CNC",Demo@087,Not Placed
+STU088,Vinay Kumar,student088@example.com,9000010088,AIML,7.35,"Python, Machine Learning, SQL",Demo@088,Not Placed
+STU089,Yamini Sharma,student089@example.com,9000010089,CIVIL,7.43,"Revit, SketchUp, AutoCAD",Demo@089,Not Placed
+STU090,Abhishek Rao,student090@example.com,9000010090,IT,9.49,"Python, SQL, HTML, CSS",Demo@090,Not Placed
+STU091,Akshara Reddy,student091@example.com,9000010091,CIVIL,6.82,"AutoCAD, Civil 3D, STAAD.Pro",Demo@091,Not Placed
+STU092,Anirudh Kumar,student092@example.com,9000010092,CSE,6.58,"C++, SQL, DSA",Demo@092,Not Placed
+STU093,Bhanu Prakash,student093@example.com,9000010093,IT,8.75,"Python, Django, JavaScript",Demo@093,Not Placed
+STU094,Bharath Reddy,student094@example.com,9000010094,AIML,8.32,"Python, Machine Learning, SQL",Demo@094,Not Placed
+STU095,Darshan Rao,student095@example.com,9000010095,AIML,9.35,"Python, Pandas, Scikit-learn",Demo@095,Placed
+STU096,Girish Kumar,student096@example.com,9000010096,CIVIL,6.36,"Revit, SketchUp, AutoCAD",Demo@096,Not Placed
+STU097,Jeevan Sharma,student097@example.com,9000010097,CSE,8.02,"JavaScript, React, Node.js",Demo@097,Not Placed
+STU098,Kiran Reddy,student098@example.com,9000010098,MECH,7.47,"AutoCAD, SolidWorks, Python",Demo@098,Not Placed
+STU099,Mahesh Kumar,student099@example.com,9000010099,IT,8.38,"Python, SQL, HTML, CSS",Demo@099,Not Placed
+STU100,Niharika Rao,student100@example.com,9000010100,CIVIL,7.97,"Revit, SketchUp, AutoCAD",Demo@100,Placed
+STU101,Pallavi Reddy,student101@example.com,9000010101,IT,7.61,"Python, Django, JavaScript",Demo@101,Placed
+STU102,Pavan Teja,student102@example.com,9000010102,EEE,6.87,"MATLAB, Embedded C, PLC",Demo@102,Not Placed
+STU103,Pranitha Sharma,student103@example.com,9000010103,EEE,8.35,"Python, IoT, Arduino",Demo@103,Not Placed
+STU104,Raghav Kumar,student104@example.com,9000010104,AIML,8.12,"Python, Machine Learning, SQL",Demo@104,Placed
+STU105,Rohini Rao,student105@example.com,9000010105,CIVIL,7.2,"Revit, SketchUp, AutoCAD",Demo@105,Not Placed
+STU106,Sai Charan Reddy,student106@example.com,9000010106,IT,7.83,"JavaScript, React, SQL",Demo@106,Not Placed
+STU107,Sakshi Sharma,student107@example.com,9000010107,MECH,7.99,"SolidWorks, AutoCAD, CNC",Demo@107,Placed
+STU108,Shashank Kumar,student108@example.com,9000010108,ECE,7.19,"Python, MATLAB, IoT",Demo@108,Not Placed
+STU109,Sirisha Reddy,student109@example.com,9000010109,ECE,9.06,"C, Embedded Systems, Arduino",Demo@109,Not Placed
+STU110,Sumanth Rao,student110@example.com,9000010110,CIVIL,6.99,"Revit, AutoCAD, ETABS",Demo@110,Not Placed
+STU111,Tejas Kumar,student111@example.com,9000010111,EEE,6.29,"C, Electrical Design, MATLAB",Demo@111,Placed
+STU112,Trisha Reddy,student112@example.com,9000010112,DS,8.34,"Python, SQL, Pandas",Demo@112,Not Placed
+STU113,Varsha Sharma,student113@example.com,9000010113,DS,7.65,"Python, Statistics, Power BI",Demo@113,Placed
+STU114,Vivek Kumar,student114@example.com,9000010114,AIML,7.93,"Python, Pandas, Scikit-learn",Demo@114,Placed
+STU115,Yogesh Reddy,student115@example.com,9000010115,EEE,8.5,"Python, MATLAB, PLC",Demo@115,Placed
+STU116,Zoya Rao,student116@example.com,9000010116,ECE,8.92,"C, Embedded Systems, Arduino",Demo@116,Placed
+STU117,Akhil Reddy,student117@example.com,9000010117,EEE,9.01,"MATLAB, Embedded C, PLC",Demo@117,Not Placed
+STU118,Bhavani Rao,student118@example.com,9000010118,CSE,8.15,"Python, SQL, Django",Demo@118,Placed
+STU119,Lokesh Kumar,student119@example.com,9000010119,DS,6.67,"Python, Pandas, Machine Learning",Demo@119,Placed
+STU120,Mounika Sharma,student120@example.com,9000010120,IT,9.53,"JavaScript, React, SQL",Demo@120,Not Placed

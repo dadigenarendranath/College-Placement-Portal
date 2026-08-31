@@ -1,0 +1,51 @@
+drive_id,company_id,drive_date,venue,status
+DRV001,COM001,16-09-2026,"Lab 3, Block A, Hyderabad",Completed
+DRV002,COM002,05-11-2026,"Seminar Hall, Block B, Hyderabad",Upcoming
+DRV003,COM003,24-12-2026,"Seminar Hall 2, Academic Block, Hyderabad",Completed
+DRV004,COM004,10-11-2026,"Placement Cell, Block D, Hyderabad",Completed
+DRV005,COM005,27-10-2026,"Placement Hall 1, Block C, Hyderabad",Upcoming
+DRV006,COM006,18-11-2026,"Seminar Hall, Block B, Hyderabad",Upcoming
+DRV007,COM007,07-10-2026,"Seminar Hall, Block B, Hyderabad",Ongoing
+DRV008,COM008,02-09-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV009,COM009,27-09-2026,"Seminar Hall 2, Academic Block, Hyderabad",Upcoming
+DRV010,COM010,15-10-2026,"Lab 3, Block A, Hyderabad",Ongoing
+DRV011,COM011,05-12-2026,"Seminar Hall, Block B, Hyderabad",Upcoming
+DRV012,COM012,12-09-2026,"Conference Room 2, Training Centre, Hyderabad",Upcoming
+DRV013,COM013,29-10-2026,"Auditorium, Main Campus, Hyderabad",Completed
+DRV014,COM014,10-10-2026,"Room 1, Block A, Placement Cell, Hyderabad",Upcoming
+DRV015,COM015,17-10-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV016,COM016,12-09-2026,"Seminar Hall 2, Academic Block, Hyderabad",Completed
+DRV017,COM017,10-11-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV018,COM018,25-10-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV019,COM019,27-12-2026,"Conference Room 2, Training Centre, Hyderabad",Ongoing
+DRV020,COM020,12-11-2026,"Placement Cell, Block D, Hyderabad",Completed
+DRV021,COM021,06-11-2026,"Room 1, Block A, Placement Cell, Hyderabad",Completed
+DRV022,COM022,29-09-2026,"Auditorium, Main Campus, Hyderabad",Upcoming
+DRV023,COM023,30-11-2026,"Seminar Hall, Block B, Hyderabad",Completed
+DRV024,COM024,25-10-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV025,COM025,01-11-2026,"Placement Hall 1, Block C, Hyderabad",Upcoming
+DRV026,COM026,20-11-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV027,COM027,01-12-2026,"Conference Room 2, Training Centre, Hyderabad",Completed
+DRV028,COM028,22-10-2026,"Conference Room 2, Training Centre, Hyderabad",Completed
+DRV029,COM029,12-12-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV030,COM030,26-10-2026,"Placement Hall 1, Block C, Hyderabad",Upcoming
+DRV031,COM031,16-12-2026,"Conference Room 2, Training Centre, Hyderabad",Upcoming
+DRV032,COM032,05-09-2026,"Auditorium, Main Campus, Hyderabad",Completed
+DRV033,COM033,29-10-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV034,COM034,27-12-2026,"Placement Hall 1, Block C, Hyderabad",Upcoming
+DRV035,COM035,28-11-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV036,COM036,05-11-2026,"Placement Cell, Block D, Hyderabad",Ongoing
+DRV037,COM037,11-11-2026,"Room 1, Block A, Placement Cell, Hyderabad",Upcoming
+DRV038,COM038,11-10-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV039,COM039,27-10-2026,"Conference Room 2, Training Centre, Hyderabad",Ongoing
+DRV040,COM040,28-12-2026,"Auditorium, Main Campus, Hyderabad",Ongoing
+DRV041,COM041,17-12-2026,"Placement Cell, Block D, Hyderabad",Upcoming
+DRV042,COM042,23-11-2026,"Conference Room 2, Training Centre, Hyderabad",Ongoing
+DRV043,COM043,18-10-2026,"Seminar Hall, Block B, Hyderabad",Upcoming
+DRV044,COM044,05-12-2026,"Seminar Hall 2, Academic Block, Hyderabad",Upcoming
+DRV045,COM045,28-10-2026,"Room 1, Block A, Placement Cell, Hyderabad",Upcoming
+DRV046,COM046,01-09-2026,"Placement Cell, Block D, Hyderabad",Completed
+DRV047,COM047,09-11-2026,"Seminar Hall, Block B, Hyderabad",Completed
+DRV048,COM048,11-12-2026,"Placement Hall 1, Block C, Hyderabad",Upcoming
+DRV049,COM049,16-09-2026,"Room 1, Block A, Placement Cell, Hyderabad",Completed
+DRV050,COM050,05-10-2026,"Lab 3, Block A, Hyderabad",Upcoming
